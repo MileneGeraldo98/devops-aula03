@@ -5,5 +5,8 @@ Resolvendo conflitos
 
 * Mercurial
 * Git
-* Subversiot
+* Subversion
+* GitLab
+* Subversion
 * CVS 
+Conflito resolvido
